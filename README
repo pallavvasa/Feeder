@@ -1,0 +1,3 @@
+Currently this repo contains only a python script that fetches contents from the iitb placement blog and sends it to the interested google groups.
+
+Modifications relating config file to be made in the coming versions.
